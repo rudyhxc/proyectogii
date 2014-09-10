@@ -1,7 +1,7 @@
 <?php
 
 public function hola(){
-    $var = "jhj";
+    $var = "abc";
     echo $var;
 }
 
