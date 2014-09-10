@@ -1,7 +1,7 @@
 <?php
 
 public function hola(){
-    $var = "abc123";
+    $var = "abc123456789";
     echo $var;
 }
 
